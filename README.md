@@ -1,5 +1,9 @@
 # CajeroPOO — Análisis estructural 
-## Juan Steban Valbuena Nuncira - 20232020340
+---
+## Aurotes: 
+Jonathan Esteban Cruz Fuentes - 20231020098
+Juan Steban Valbuena Nuncira - 20232020340
+---
 
 > Proyecto académico: Cajero automático (ATM) desarrollado en Java con interfaz Swing.  
 > Librerías externas requeridas: **JCalendar** y **AbsoluteLayout**.
